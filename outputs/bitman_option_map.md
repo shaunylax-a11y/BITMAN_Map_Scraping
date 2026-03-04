@@ -1,0 +1,17 @@
+# BITMAN Option Path Map
+
+```mermaid
+flowchart TD
+    BITMAN["BITMAN Diploma"]
+    YEAR1["Common First Year"]
+    ADM["Analytics Data Management"]
+    AIM["Artificial Intelligence Management"]
+    ESM["Enterprise Systems Management"]
+    NOTE["Option placement may depend on Year 1 GPA if seats are limited"]
+
+    BITMAN --> YEAR1
+    YEAR1 --> ADM
+    YEAR1 --> AIM
+    YEAR1 --> ESM
+    YEAR1 -.-> NOTE
+```
