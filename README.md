@@ -59,4 +59,7 @@ python3 src/scrape_programs.py
 python3 src/scrape_courses.py
 python3 src/build_map.py
 
-
+## Documentation
+- `docs/CITATIONS.md`
+- `docs/AI_USE_STATEMENT.md`
+- `docs/REFLECTION.md`
